@@ -20,3 +20,5 @@ With i18next you can standardize your translation. You can easily manage your fo
 Axios will manage all your requests. Also, react-icons will help you implement icons on your project.
 Famous testing tools like react testing library and jest are ready for usage.
 Don't worry about formatting or linting, prettier and eslint are gonna handle this.
+
+All you need is inside this project. Some of the examples are implemented, and some of them are command line.
